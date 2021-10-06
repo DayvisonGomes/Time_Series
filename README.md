@@ -1,1 +1,3 @@
-# S-ries_Temporais
+# Series_Temporais
+
+### Repositório destinado aos códigos da cadeira de Séries Temporais.
